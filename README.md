@@ -5,7 +5,7 @@
 <hr />
 
 <p align="center">
-    <a href="https://p2p.mirotalk.com">p2p.mirotalk.com</a>
+    <!-- <a href="https://p2p.mirotalk.com">p2p.mirotalk.com</a> -->
 </p>
 
 <hr />
